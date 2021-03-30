@@ -1,1 +1,1 @@
-# ArcoLinux Sddm Futuristic
+# ArcoLinux Sddm Materia
